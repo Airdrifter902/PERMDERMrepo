@@ -1,0 +1,31 @@
+{non gas vehicles:{
+	"Bikes":{
+		"Mountain":{
+
+			   },
+		"Fat Tire":{
+
+			   },
+		"Road":{
+
+		       }
+		},
+	"Skates":{
+		"SkateBoard":{
+			"Longboards":{},
+			"Mini cruiers":{},
+			"SkateBoard":{}
+			     },
+		"Rollerskates":{
+
+			       },
+		"Scooter":{
+
+		   },
+		"other":{
+
+			}
+		},
+	"Other":{
+
+	        }
