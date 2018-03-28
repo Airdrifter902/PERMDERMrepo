@@ -1,4 +1,4 @@
-{non gas vehicles:{
+{"non-gas-vehicles":{
 	"Bikes":{
 		"Mountain":{
 
@@ -25,7 +25,9 @@
 		"other":{
 
 			}
-		},
+	},
 	"Other":{
-
+                
 	        }
+        }
+}
