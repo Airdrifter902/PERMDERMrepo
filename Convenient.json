@@ -41,11 +41,12 @@
 			             }
 			     },
 		"Rollerskates":{
-
+				"Rollerblades":"All wheels in line to replicate ice skating",
+				"Rollerquads":"I Don't know myself pull and edit please"
 			       },
 		"Scooter":{
             "Handle-bars":"for steering like a bike",
-            "deck":"For footing like a skateboard"
+            "deck":"For footing and grinding/sliding like a skateboard"
 		   },
 		"other":{
 

@@ -11,7 +11,7 @@
 			"Thin tire":"Thinner tires mean less energy used, since they are too thin for anything else they are used on roads where they are grippy."
 		       },
 		"Bmx":{
-			"Tire":"Just a normal tire that can be used for any thing"
+			"Tire":"Just a normal tire that can be used for any thing",
 			"no gear change":"This is for less weight, less weight means more air on bunny hops for more tricks"
 		   }
 		},
@@ -44,7 +44,8 @@
 
 			       },
 		"Scooter":{
-
+            "Handle-bars":"for steering like a bike",
+            "deck":"For footing like a skateboard"
 		   },
 		"other":{
 
