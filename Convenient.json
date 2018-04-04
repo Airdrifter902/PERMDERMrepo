@@ -12,7 +12,8 @@
 		       },
 		"Bmx":{
 			"Tire":"Just a normal tire that can be used for any thing",
-			"no gear change":"This is for less weight, less weight means more air on bunny hops for more tricks"
+			"no gear change":"This is for less weight, less weight means more air on bunny hops for more tricks",
+			"pegs":"These are for grind tricks and for manual/wheely tricks as well"
 		   }
 		},
 	"Skates":{
@@ -46,10 +47,11 @@
 			       },
 		"Scooter":{
             "Handle-bars":"for steering like a bike",
-            "deck":"For footing and grinding/sliding like a skateboard"
+            "deck":"For footing and grinding/sliding like a skateboard",
+	    "pegs":"For grind an manual tricks like a bike"
 		   },
 		"other":{
-            
+           		"Electric Skateboard":"It is what it sounds like an electric powered skateboard usually a longboard" 
 			}
 	},
 	"Other":{
