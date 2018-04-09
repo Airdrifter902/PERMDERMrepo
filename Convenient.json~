@@ -2,18 +2,22 @@
 	"Bikes":{
 		"Mountain":{
 			"Thicker, treaded tire":"For grip on dirt paths",
-			"Gear Change":"Some Gears are better for uphill, some for downhil, and sometimes it is preference"
+			"Gear Change":"Some Gears are better for uphill, some for downhil, and sometimes it is preference",
+			"img link":"https://media.performancebike.com/images/performance/products/product-hi/31-6715-BLK-ANGLE.jpg?resize=1500px:1500px&output-quality=100"
 			   },
 		"Fat Tire":{
-			"Fat Tire":"For Grip on sand and snow"
+			"Fat Tire":"For Grip on sand and snow",
+			"img link":"http://c.shld.net/rpx/i/s/i/spin/10147105/prod_2014824612"
 	      		   },
 		"Road":{
-			"Thin tire":"Thinner tires mean less energy used, since they are too thin for anything else they are used on roads where they are grippy."
+			"Thin tire":"Thinner tires mean less energy used, since they are too thin for anything else they are used on roads where they are grippy.",
+			"img link":"http://www.roadbikereview.com/reviews/wp-content/uploads/2012/07/orbea_olympics-700x429.jpg"
 		       },
 		"Bmx":{
 			"Tire":"Just a normal tire that can be used for any thing",
 			"no gear change":"This is for less weight, less weight means more air on bunny hops for more tricks",
-			"pegs":"These are for grind tricks and for manual/wheely tricks as well"
+			"pegs":"These are for grind tricks and for manual/wheely tricks as well",
+			"img link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTzlLNjcihVkCXnlK9EP_evx5YCqvS3zPBmBYAEjuTFmRt50Q"
 		   }
 		},
 	"Skates":{
@@ -22,33 +26,41 @@
 				"Downhill":{
 					"36-in to 40-in deck":"Long enough for down hill control, Short enough to slide",
 					"Reverse King-pin trucks":"For tighter turns, And less speed wobble downhill",
-					"80a 65-70mm":"These are for a faster and smoother ride downhill"
+					"80a 65-70mm":"These are for a faster and smoother ride downhill",
+					"img link":"https://images-na.ssl-images-amazon.com/images/I/91bJvvFK8BL._SY463_.jpg"
+
 				   	   },
 				"Cruiser":{
 					"38-46in deck":"More area to play with",
 					"80a 65-70mm":"Soft ride around town But different formula for more grip",
-					"Reverse king pin trucks":"for tighter turns"
+					"Reverse king pin trucks":"for tighter turns",
+					"img link":"https://www.hammondboards.com/images/D/longboard-hammond-organic-pintail-top-view.jpg"
 				          }
 				     },
 			"Mini cruiers":{
 				"80a 60-65mm":"Soft ride around town",
 				"18-24in deck":"Smaller Board more portability",
-				"6in traditional-kingpin trucks":"to match the deck and wheels"
+				"6in traditional-kingpin trucks":"to match the deck and wheels",
+				"img link":"https://www.slickwillies.co.uk/media/catalog/product/cache/1/image/1200x1200/9df78eab33525d08d6e5fb8d27136e95/p/e/penny_burgundy_skateboard_-_22.jpg"
 				       },
 			"SkateBoard":{
 				"30-31in deck":"For long enough for control, short enough for tricks",
 				"7-8.5in traditional kingpin trucks":"Trad trucks for grinding length for the board",
-				"104a/84b 53mm":"Harder wheels mean easier sliding, easier sliding means grinds"
+				"104a/84b 53mm":"Harder wheels mean easier sliding, easier sliding means grinds",
+				"img link":"https://contents.mediadecathlon.com/p409430/460x460/sq/mid_3_skull_kids_skateboard_oxelo_8303127_409430.jpg?k=e0e3b2a14084e09fc6d576104130e1c3"
 			             }
 			     },
 		"Rollerskates":{
 				"Rollerblades":"All wheels in line to replicate ice skating",
-				"Rollerquads":"I Don't know myself pull and edit please"
+				"Rollerquads":"I Don't know myself pull and edit please",
+				"img link1":"https://s7d2.scene7.com/is/image/dkscdn/16ROLWMCRBLD80LWMILS_Black_Green_is/",
+				"img link2":"https://sohimages.com/images/images_skates/NIKEROLLERSKATES-2.jpg"
 			       },
 		"Scooter":{
             "Handle-bars":"for steering like a bike",
             "deck":"For footing and grinding/sliding like a skateboard",
-	    "pegs":"For grind an manual tricks like a bike"
+	    "pegs":"For grind an manual tricks like a bike",
+	    "Img link":"https://cdn.shopify.com/s/files/1/0393/0865/products/envy-kos-heist-pro-scooter_large.jpg?v=1511548154"
 		   },
 		"other":{
            		"Electric Skateboard":"It is what it sounds like an electric powered skateboard usually a longboard" 
