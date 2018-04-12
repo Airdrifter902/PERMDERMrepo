@@ -20,10 +20,20 @@
 			"img link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTzlLNjcihVkCXnlK9EP_evx5YCqvS3zPBmBYAEjuTFmRt50Q"
 		   },
 		   "Drift Trike":{
+			   "basic parts":{
+			   "front wheel":"3 times larger than back wheels",
+			   "back wheels":{
+			        "made of":[
+				        "poly-urethane",
+					"plastic",
+					"pvc"
+				          ]
+			         }
+			   },
 			   "electric":{},
 		   	   "diesel/gas":{},
 			   "peddle powered":{},
-			   "":{}
+			   "pegs/downhill only":{}
 		},
 	"Skates":{
 		"SkateBoard":{

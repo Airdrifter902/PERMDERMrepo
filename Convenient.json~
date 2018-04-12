@@ -18,7 +18,12 @@
 			"no gear change":"This is for less weight, less weight means more air on bunny hops for more tricks",
 			"pegs":"These are for grind tricks and for manual/wheely tricks as well",
 			"img link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTzlLNjcihVkCXnlK9EP_evx5YCqvS3zPBmBYAEjuTFmRt50Q"
-		   }
+		   },
+		   "Drift Trike":{
+			   "electric":{},
+		   	   "diesel/gas":{},
+			   "peddle powered":{},
+			   "":{}
 		},
 	"Skates":{
 		"SkateBoard":{
@@ -37,7 +42,7 @@
 					"img link":"https://www.hammondboards.com/images/D/longboard-hammond-organic-pintail-top-view.jpg"
 				          }
 				     },
-			"Mini cruiers":{
+			"Mini cruisers":{
 				"80a 60-65mm":"Soft ride around town",
 				"18-24in deck":"Smaller Board more portability",
 				"6in traditional-kingpin trucks":"to match the deck and wheels",
