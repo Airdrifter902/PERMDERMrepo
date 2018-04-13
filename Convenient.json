@@ -30,8 +30,10 @@
 				          ]
 			         }
 			   },
-			   "electric":{},
-		   	   "diesel/gas":{},
+			   "electric":{
+			   	"electric-motor":"usually in the back wheels but I would rather put in the front wheel for when you lose traction on the drift trike"
+			   	},
+		   	   "diesel/gas":"Same as electric except you will have no space for the gas engine in the front",
 			   "peddle powered":{},
 			   "pegs/downhill only":{}
 		},

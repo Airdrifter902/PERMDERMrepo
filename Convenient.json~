@@ -21,12 +21,12 @@
 		   },
 		   "Drift Trike":{
 			   "basic parts":{
-			   "front wheel":"3 times larger than back wheels",
-			   "back wheels":{
-			        "made of":[
-				        "poly-urethane",
-					"plastic",
-					"pvc"
+			        "front wheel":"3 times larger than back wheels",
+			         "back wheels":{
+			              "made of":[
+				           "poly-urethane",
+					   "plastic",
+					   "pvc"
 				          ]
 			         }
 			   },
