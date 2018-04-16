@@ -34,8 +34,16 @@
 			   	"electric-motor":"usually in the back wheels but I would rather put in the front wheel for when you lose traction on the drift trike"
 			   	},
 		   	   "diesel/gas":"Same as electric except you will have no space for the gas engine in the front",
-			   "peddle powered":{},
-			   "pegs/downhill only":{}
+			   "peddle powered":{
+			       "details":{
+			            "peddle placement":"peddles placed in the front wheel/tire",
+				    "what kind of peddle":"free wheel so you dont have to worry about following with the wheel"
+			            }   
+			       },
+			   "downhill only":{
+			   	"pegs":"img",
+				"off to the side":"img"
+			   	}
 		},
 	"Skates":{
 		"SkateBoard":{
